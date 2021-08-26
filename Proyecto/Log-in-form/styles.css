@@ -1,9 +1,10 @@
 html{
-    background-color: #000000;
+            
+background-color: black;
 }
 
 body{
-    background-color: transparent;
+    background-color: black;
 }
 
 #log-in-form{
@@ -17,14 +18,14 @@ body{
 }
 
 #log-in-form .heading{
-	text-align: center;
+text-align: center;
     margin-top: 30px;
     margin-bottom: 70px;
 }
 
 #log-in-form .form-group{
 float:left;
-    width: 28%;
+    width: 30%;
     margin-left: 40px;
 }
 
@@ -36,11 +37,11 @@ float:left;
 #log-in-form .form-group-btn{
     width: 15%;
     margin-left: 70px;
-    color:gray;
+    color:#000000;
 }
 
 #log-in-form .btn{
-    margin-top: 10px;
+    margin-top: 30px;
     padding: 10px 20px;
     color:white;
 }
@@ -73,8 +74,8 @@ float:left;
     #log-in-form .checkbox{
         width: 60%;
         float: none;
-        margin: 15px auto 50px auto;
-        color:gray;
+        margin: 15px auto 30px auto;
+        color:black;
     }
 }
 
